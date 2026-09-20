@@ -32,11 +32,9 @@ A Python desktop app that uses your webcam and pose estimation (MediaPipe) to co
 
 ### Installation
 
-```bash
-git clone https://github.com/YOUR-USERNAME/exercise-app.git
+[git clone https://github.com/3starz/Python-Exercise-App.git]
 cd exercise-app
 pip install -r requirements.txt
-```
 
 ### Run the app
 
