@@ -20,7 +20,7 @@ A Python desktop app that uses your webcam and pose estimation (MediaPipe) to co
 
 - Python
 - MediaPipe and OpenCV (pose estimation and webcam capture)
-- scikit-learn, pandas and NumPy (deadlift stage classifier)
+- Pandas and NumPy (deadlift stage classifier)
 - Tkinter, CustomTkinter and Pillow (user interface)
 
 ## Getting started
