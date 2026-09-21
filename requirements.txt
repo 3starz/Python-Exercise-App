@@ -4,5 +4,3 @@ customtkinter
 pandas
 numpy
 Pillow
-# The deadlift model (deadlift.pkl) was saved with this scikit-learn version
-scikit-learn==1.1.2
